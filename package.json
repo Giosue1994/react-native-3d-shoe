@@ -9,10 +9,19 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@dimforge/rapier3d-compat": "^0.12.0",
+    "@react-native/metro-config": "^0.74.83",
+    "@react-three/drei": "^9.105.6",
+    "@react-three/fiber": "^8.16.3",
     "expo": "~50.0.17",
+    "expo-file-system": "~16.0.9",
+    "expo-gl": "~13.6.0",
     "expo-status-bar": "~1.11.1",
+    "expo-three": "^7.0.1",
     "react": "18.2.0",
-    "react-native": "0.73.6"
+    "react-native": "0.73.6",
+    "three": "^0.164.1",
+    "react-native-reanimated": "~3.6.2"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
